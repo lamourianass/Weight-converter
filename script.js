@@ -1,7 +1,7 @@
 const inputEl = document.getElementById('input')
 
-function updateResult() {
+function updateResults() {
 
 }
 
-inputEl.addEventListener('input', updateResult)
+inputEl.addEventListener('input', updateResults)
