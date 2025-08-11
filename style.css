@@ -3,5 +3,5 @@ body {
   background: linear-gradient(to left top, yellow, lightblue, yellow);
   min-height: 100vh;
   display: flex;
-
+  justify-content: center;
 }
