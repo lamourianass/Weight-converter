@@ -20,5 +20,5 @@ body {
 
 
 .input-container {
-  
+  display: flex;
 }
