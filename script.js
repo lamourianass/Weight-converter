@@ -1,7 +1,9 @@
-const inputEl = document.getElementById('input')
+const inputEl = document.getElementById('pounds')
+const resultEl = document.getElementById('result')
 
 function updateResults() {
-console.log(inputEl.value)
+const convertedWeight = inputEl.value * 2.205
+
 }
 
 inputEl.addEventListener('input', updateResults)
